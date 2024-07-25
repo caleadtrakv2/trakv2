@@ -1,0 +1,8 @@
+{
+    "watch": ["*.js"],
+    "exec": "node init.js",
+    "ext": "js,json",
+    "restartable": "rs",
+    "delay": "2500"
+  }
+  
