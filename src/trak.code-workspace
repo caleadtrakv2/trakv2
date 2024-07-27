@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "trakv2",
+			"path": "../trakv2"
+		}
+	],
+	"settings": {}
+}
